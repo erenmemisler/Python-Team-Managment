@@ -23,7 +23,7 @@ Modern bir GUI tabanlı startup ve proje yönetim platformu. Takımlar oluşturu
 
 ```bash
 git clone <repository-url>
-cd "20242425038_BatuhanSancak_ErenMemisler_20232425062/Python Proje"
+cd "Python Team Managment/Python Proje"
 ```
 
 ### 2. Python Paketlerini Yükleyin
