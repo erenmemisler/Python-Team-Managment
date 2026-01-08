@@ -135,8 +135,8 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 ## 👥 Yazarlar
 
-- Batuhan Sancak (20242425038)
-- Eren Memişler (20232425062)
+- Batuhan Sancak 
+- Eren Memişler
 
 ## ⚠️ Sorun Giderme
 
