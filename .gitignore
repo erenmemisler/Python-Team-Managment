@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Email config
+# ⚠️ NOT: email_config.py dosyası placeholder değerlerle commit edilmiştir (güvenli)
+# Kendi bilgilerinizi girerken gerçek şifreleri commit etmeyin!
+# email_config.py (placeholder değerlerle dahil edilmiştir - güvenli)
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
